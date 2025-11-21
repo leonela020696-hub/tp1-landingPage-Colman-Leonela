@@ -1,0 +1,36 @@
+{
+  "name": "tp1-landingpage-colman-leonela",
+  "version": "1.0.0",
+  "description": "Aclaraciones respecto a los repositorio para los trabajos de Enstandares en Desarrollo Web.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonela-colman/tp1-landingPage-Colman-Leonela.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/leonela-colman/tp1-landingPage-Colman-Leonela/issues"
+  },
+  "homepage": "https://github.com/leonela-colman/tp1-landingPage-Colman-Leonela#readme",
+  "dependencies": {
+    "@fancyapps/ui": "^6.1.6",
+    "@fortawesome/fontawesome-free": "^7.1.0",
+    "bootstrap": "^5.3.8",
+    "fancybox": "^3.0.1",
+    "pace-js": "^1.2.4",
+    "sweetalert2": "^11.26.3",
+    "swiper": "^12.0.3"
+  },
+  "devDependencies": {
+    "vite": "^7.2.2"
+  }
+}
